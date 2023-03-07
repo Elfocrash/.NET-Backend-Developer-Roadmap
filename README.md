@@ -8,4 +8,4 @@ I will try to keep updating this roadmap as the technology landscape is evolving
 
 Interactive Roadmap: [Link](https://mm.tt/map/2627837340?t=CjSlrIg9TU)
 
-![](roadmap-dark-2023.png)
+![](roadmap-dark-compact-2023.png)
